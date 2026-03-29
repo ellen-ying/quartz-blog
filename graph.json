@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Literature notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 16032067
+      }
+    },
+    {
+      "query": "tag:course",
+      "color": {
+        "a": 1,
+        "rgb": 7394908
+      }
+    },
+    {
+      "query": "tag:MOC",
+      "color": {
+        "a": 1,
+        "rgb": 14048454
+      }
+    },
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 6059222
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.02400841346154,
+  "lineSizeMultiplier": 3.61072716346154,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.46230425193823466,
+  "close": true
+}

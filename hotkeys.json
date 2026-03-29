@@ -1,0 +1,38 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ],
+  "obsidian-citation-plugin:insert-markdown-citation": [],
+  "obsidian-citation-plugin:insert-literature-note-content": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "editor:delete-paragraph": []
+}
